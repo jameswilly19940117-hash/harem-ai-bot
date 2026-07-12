@@ -6,7 +6,7 @@ from collections import defaultdict
 
 TELEGRAM_TOKEN = "8845977529:AAExVeRs-DEwU3NOXZvrZ6rlkhtxkU9s45Q"
 GROK_API_KEY = os.getenv("GROK_API_KEY")
-ADMIN_ID = @willchicken
+ADMIN_ID = 1306575770
 
 user_data = defaultdict(dict)
 premium_users = set()  # 付費用戶
